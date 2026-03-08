@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Engineer** with ~5 years of experience building scalable software products across startups and healthcare technology companies. I specialize in designing backend systems, shipping end-to-end products, and integrating AI/LLM-powered workflows.
+I'm a **Full Stack Engineer** with 5 years of experience building scalable software products across startups and healthcare technology companies. I specialize in designing backend systems, shipping end-to-end products, and integrating AI/LLM-powered workflows.
 
 > **"I focus on building real products that solve real problems. I take ownership of systems end to end—from architecture to user experience."**
 
