@@ -156,10 +156,7 @@ I'm actively exploring opportunities at companies building:
 
 <div align="center">
 
-*Built with ❤️ by Vedant Chak | IIT BHU 'XX*
+*Built with ❤️ by Vedant Chak
 
 </div>
 
-\n================================================================================
-README generated successfully!
-================================================================================
